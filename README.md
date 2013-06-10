@@ -37,7 +37,6 @@ using Plugins -> Plugin Manager in the tab installed.
   * Click File -> Open
   * Select test.gpml
   * Click Open
-  * 
   
 Please go through the testing procedure outlined below, it will take a minute, and report any problems encountered as 
 issues.
