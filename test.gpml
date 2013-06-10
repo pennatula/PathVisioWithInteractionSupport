@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Test Pathway Interactions" Version="20130610" Organism="Homo sapiens">
+  <Comment>This pathway has been created to test the new Interaction Annotation BridgeDB derby database.</Comment>
+  <Comment>Type your comment here</Comment>
+  <Graphics BoardWidth="569.0" BoardHeight="549.0" />
+  <DataNode TextLabel="GeneProduct" GraphId="d1620" Type="GeneProduct">
+    <Graphics CenterX="296.0" CenterY="364.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GeneProduct" GraphId="e68e7" Type="GeneProduct">
+    <Graphics CenterX="456.0" CenterY="364.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GeneProduct" GraphId="cc958" Type="GeneProduct">
+    <Graphics CenterX="339.0" CenterY="509.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GeneProduct" GraphId="c942a" Type="GeneProduct">
+    <Graphics CenterX="499.0" CenterY="509.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <Interaction GraphId="id3ca0faad">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="336.0" Y="364.0" GraphRef="d1620" RelX="1.0" RelY="0.0" />
+      <Point X="416.0" Y="364.0" GraphRef="e68e7" RelX="-1.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="Rhea" ID="10003" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="379.0" Y="509.0" GraphRef="cc958" RelX="1.0" RelY="0.0" />
+      <Point X="459.0" Y="509.0" GraphRef="c942a" RelX="-1.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="KEGG Reaction" ID="R02938" />
+  </Interaction>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>
+
