@@ -1,17 +1,17 @@
 PathVisioWithInteractionSupport
 ===============================
 
-This version of the PathVisio (http://www.pathvisio.org/) application works with the new interaction annotation
-database.  The annotation database can be created using the code from https://github.com/pennatula/InteractionDB.git.
+This is a temporary version of the PathVisio (http://www.pathvisio.org/) application which works with the new 
+interaction annotation database. The annotation database can be created using the code from https://github.com/pennatula/InteractionDB.git.
 
 To test this version download the entire repository.
 
 Windows Users
-=============
+--------------
 Run the PathVisio program by clicking on the pathvisio.bat file.
 
 Linux/Mac OS Users
-==================
+-------------------
 Run the PathVisio program by running the pathvisio.sh file from the terminal.
 
 1) Install the BridgeDbConfig plugin.
