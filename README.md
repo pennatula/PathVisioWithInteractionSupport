@@ -8,7 +8,7 @@ To test this version download the entire repository.
 
 Windows Users
 =============
-Run the PathVisio program be clicking on the pathvisio.bat file.
+Run the PathVisio program by clicking on the pathvisio.bat file.
 
 Linux/Mac OS Users
 ==================
