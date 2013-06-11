@@ -6,13 +6,14 @@ interaction annotation database. The annotation database can be created using th
 
 To test this version download the entire repository.
 
-**Windows Users**
-Run the PathVisio program by clicking on the pathvisio.bat file.
+Setup
+=====
 
-**Linux/Mac OS Users**
-Run the PathVisio program by running the pathvisio.sh file from the terminal.
+1) **Windows Users** : Run the PathVisio program by clicking on the pathvisio.bat file.
 
-1) Install the BridgeDbConfig plugin.
+**Linux/ Mac OS X Users** : Run the PathVisio program by running the pathvisio.sh file from the terminal.
+
+2) Install the BridgeDbConfig plugin.
 
   * Click Plugins -> Install local plugins -> Browse 
   * Select the folder plugins.
@@ -23,14 +24,14 @@ Run the PathVisio program by running the pathvisio.sh file from the terminal.
 On succesful installation a pop up box pops up saying so and you can check whether the plugin was properly installed
 using Plugins -> Plugin Manager in the tab installed.
 
-2) Load the interaction annotation database.
+3) Load the interaction annotation database.
 
   * Click Data -> Idenitifier Mapping Setup... -> Add 
   * Click on Browse -> Chose the interactions_20130610.bridge file -> Open
   * Click Ok
   * Click OK
 
-3) Open the test pathway
+4) Open the test pathway
 
   * Click File -> Open
   * Select test.gpml
