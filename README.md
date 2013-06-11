@@ -6,12 +6,10 @@ interaction annotation database. The annotation database can be created using th
 
 To test this version download the entire repository.
 
-Windows Users
---------------
+**Windows Users**
 Run the PathVisio program by clicking on the pathvisio.bat file.
 
-Linux/Mac OS Users
--------------------
+**Linux/Mac OS Users**
 Run the PathVisio program by running the pathvisio.sh file from the terminal.
 
 1) Install the BridgeDbConfig plugin.
