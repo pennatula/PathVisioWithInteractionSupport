@@ -1,7 +1,7 @@
 PathVisio With Interaction Identifier Mapping 
 =============================================
 
-This is a temporary version of the PathVisio (http://www.pathvisio.org/) application which works with the new 
+This is a **temporary** version of the PathVisio (http://www.pathvisio.org/) application which works with the new 
 interaction annotation database. The annotation database can be created using the code from https://github.com/pennatula/InteractionDB.git.
 
 To test this version download the entire repository.
@@ -11,7 +11,7 @@ Setup
 
 1) **Windows Users** : Run the PathVisio program by clicking on the pathvisio.bat file.
 
-**Linux/ Mac OS X Users** : Run the PathVisio program by running the pathvisio.sh file from the terminal.
+   **Linux/ Mac OS X Users** : Run the PathVisio program by running the pathvisio.sh file from the terminal.
 
 2) Install the BridgeDbConfig plugin.
 
@@ -45,10 +45,10 @@ Testing Procedure
 
 Click on the first interaction. Click on the backpage tab
 
-You should see the interaction annotated with the identifier 10003 from Rhea and crossrefernces to BioCyc, 
+You should see the interaction annotated with the identifier 10003 from Rhea and cross-refernces to BioCyc, 
 Enzyme Nomenclature, Rhea, and Kegg Reaction.
 
-Now Click on the second interaction and the information in the backpage should now change to identifier R02938 
-from Kegg Reaction and the cross references from the same databases as in the first interaction.
+Now Click on the second interaction, the information in the backpage should now change to identifier R02938 
+from Kegg Reaction and the corresponding cross-references from the same databases as in the first interaction.
 
 Many Thanks!
