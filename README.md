@@ -1,5 +1,5 @@
-PathVisioWithInteractionSupport
-===============================
+PathVisio With Interaction Identifier Mapping 
+=============================================
 
 This is a temporary version of the PathVisio (http://www.pathvisio.org/) application which works with the new 
 interaction annotation database. The annotation database can be created using the code from https://github.com/pennatula/InteractionDB.git.
